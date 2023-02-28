@@ -86,7 +86,7 @@ author:
   location         : "Hanover, Nh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/scholar?hl=en&as_sdt=0%2C30&q=Nathan+H.+Heller&oq=nath"
+  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C30&q=Nathan+H.+Heller&oq=nath"
   email            :
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
